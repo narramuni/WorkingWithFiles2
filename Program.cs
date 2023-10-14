@@ -45,8 +45,6 @@ namespace WorkingWithFiles2
 
             File.Delete(filename);
             Console.WriteLine(filename + " was deleted");
-
-
         }
     }
 }
