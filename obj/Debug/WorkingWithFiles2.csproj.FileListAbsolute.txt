@@ -1,0 +1,7 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\WorkingWithFiles2\WorkingWithFiles2\bin\Debug\WorkingWithFiles2.exe.config
+C:\Users\SAI PAVAN KUMAR\source\repos\WorkingWithFiles2\WorkingWithFiles2\bin\Debug\WorkingWithFiles2.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\WorkingWithFiles2\WorkingWithFiles2\bin\Debug\WorkingWithFiles2.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\WorkingWithFiles2\WorkingWithFiles2\obj\Debug\WorkingWithFiles2.csproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\WorkingWithFiles2\WorkingWithFiles2\obj\Debug\WorkingWithFiles2.csproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\WorkingWithFiles2\WorkingWithFiles2\obj\Debug\WorkingWithFiles2.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\WorkingWithFiles2\WorkingWithFiles2\obj\Debug\WorkingWithFiles2.pdb
